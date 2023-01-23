@@ -29,5 +29,3 @@ Replace Windows with Arch Linux.(I must use some software that only provide Wind
 Main site: www.notkiller.moe
 
 xLog: [xlog.notkiller.moe](https://xlog.notkiller.moe)
-
-Hexo: [hexo.notkiller.moe](https://hexo.notkiller.moe)
