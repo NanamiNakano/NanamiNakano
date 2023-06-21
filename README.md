@@ -18,3 +18,6 @@ I'm Nanami Nakano, aka. The Nanami(thyNanami), a gamer from China, and also want
 ░░░░░░▐▀░░░░░░▐▌░░
 ░░░░░░█░░░░░░░░█░░░
 ```
+Play Minecraft with me!
+
+![](https://gen.plancke.io/exp/NanamiNakano.png)
