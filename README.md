@@ -18,6 +18,15 @@ I'm Nanami Nakano, aka. The Nanami(thyNanami), a gamer from China, and also want
 ░░░░░░▐▀░░░░░░▐▌░░
 ░░░░░░█░░░░░░░░█░░░
 ```
+
+----------
+
 Play Minecraft with me!
 
-![](https://gen.plancke.io/exp/NanamiNakano.png)
+![Hypixel Level](https://gen.plancke.io/exp/NanamiNakano.png)
+
+----------
+
+My Steam!
+
+![Steam Card](https://card.yuy1n.io/card/76561199030345543/radical,en,badge)
