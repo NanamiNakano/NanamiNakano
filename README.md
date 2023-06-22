@@ -29,7 +29,7 @@ Play Minecraft with me!
 
 My Steam!
 
-<img width="400" height="140" src="https://card.yuy1n.io/card/76561199030345543/radical,en,badge"/>
+<a href="https://steamcommunity.com/id/thynanami"><img width="400" height="140" src="https://card.yuy1n.io/card/76561199030345543/radical,en,badge"/></a>
 
 ----------
 
