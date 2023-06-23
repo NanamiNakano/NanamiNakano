@@ -1,6 +1,10 @@
+<a href="https://steamcommunity.com/id/thynanami"><img align="right" width="400" height="140" src="https://card.yuy1n.io/card/76561199030345543/radical,en,badge"/></a>
+
 # World, Hello. 👋
 
 I'm Nanami Nakano, aka. The Nanami(thyNanami), a gamer from China, and also want to become a developer.
+
+----------
 
 ```
 ░░░░░ ▄██▄░░░
@@ -18,18 +22,6 @@ I'm Nanami Nakano, aka. The Nanami(thyNanami), a gamer from China, and also want
 ░░░░░░▐▀░░░░░░▐▌░░
 ░░░░░░█░░░░░░░░█░░░
 ```
-
-----------
-
-Play Minecraft with me!
-
-![Hypixel Level](https://gen.plancke.io/exp/NanamiNakano.png)
-
-----------
-
-My Steam!
-
-<a href="https://steamcommunity.com/id/thynanami"><img width="400" height="140" src="https://card.yuy1n.io/card/76561199030345543/radical,en,badge"/></a>
 
 ----------
 
