@@ -25,7 +25,7 @@ I'm Nanami Nakano, aka. The Nanami(thyNanami), a gamer from China, and also want
 
 ----------
 
-<img src="https://wakatime.com/share/@thynanami/21a4b48d-4ef2-4e73-b2ef-e6fe782506c4.svg"/>
+<img src="https://wakatime.com/share/@thynanami/bd746103-8f3a-4b80-91fb-a0a8e7ade19a.svg"/>
 
 ----------
 
