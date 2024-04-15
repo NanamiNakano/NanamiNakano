@@ -1,6 +1,6 @@
 # World, Hello. 👋
 
-I'm Nanami Nakano, aka. The Nanami(thyNanami), a gamer from China, and also want to become a developer.
+I'm Nanami Nakano, aka. The Nanami(thyNanami), 16 y.o. full-stack bug maker from China.
 
 ----------
 
