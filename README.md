@@ -1,6 +1,6 @@
 # World, Hello. 👋
 
-I'm Nanami Nakano, aka. The Nanami(thyNanami), 16 y.o. full-stack bug maker from China.
+I'm Nanami Nakano, aka. The Nanami(thyNanami), 16 y.o. student(Grade 10) and full-stack developer(Powered by Google :P).
 
 ----------
 
@@ -23,6 +23,7 @@ I'm Nanami Nakano, aka. The Nanami(thyNanami), 16 y.o. full-stack bug maker from
 
 ----------
 
+[![wakatime](https://wakatime.com/badge/user/0aa0267a-8988-4090-ad37-c5a4dfc58ac8.svg)](https://wakatime.com/@0aa0267a-8988-4090-ad37-c5a4dfc58ac8)
 <img src="https://wakatime.com/share/@thynanami/dfa6f500-7bb7-42b8-85c1-59e706df77ae.svg"/>
 
 ----------
