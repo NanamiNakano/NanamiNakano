@@ -1,6 +1,6 @@
 # World, Hello. 👋
 
-I'm Nanami Nakano, aka. The Nanami(thyNanami), 16 y.o. student(Grade 11) and full-stack developer(Powered by Google :P).
+I'm Nanami Nakano (thyNanami), 16 y.o. student(Grade 11) and full-stack developer(Powered by Google :P).
 
 ----------
 
