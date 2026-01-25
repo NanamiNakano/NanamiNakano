@@ -1,6 +1,6 @@
 # World, Hello. 👋
 
-I'm Nanami Nakano (thyNanami), 17 y.o. student and full-stack developer(Bug maker :P).
+I'm Nanami Nakano (thyNanami), 18 y.o. student and full-stack developer(Bug maker :P).
 
 ----------
 
