@@ -2,6 +2,8 @@
 
 I'm Nanami Nakano (thyNanami), 18 y.o. student and full-stack developer(Bug maker :P).
 
+[My resume](https://github.com/NanamiNakano/resume/blob/main/resume.pdf)
+
 ----------
 
 ```bob
