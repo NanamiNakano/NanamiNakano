@@ -1,6 +1,6 @@
 # World, Hello. 👋
 
-I'm Nanami Nakano (thyNanami), 18 y.o. student and full-stack developer(Bug maker :P).
+I'm Nanami Nakano (thyNanami), 18 y.o. student and developer(Bug maker :P).
 
 ----------
 
@@ -20,10 +20,3 @@ I'm Nanami Nakano (thyNanami), 18 y.o. student and full-stack developer(Bug make
 ░░░░░░▐▀░░░░░░▐▌░░
 ░░░░░░█░░░░░░░░█░░░
 ```
-
-----------
-
-## Sponsor Me
-
-| <a href="https://store.steampowered.com/wishlist/profiles/76561199030345543/#sort=order"><img height="75" width="250" src="https://store.cloudflare.steamstatic.com/public/shared/images/header/logo_steam.svg?t=962016"/></a> | 
-| ---------------- | 
